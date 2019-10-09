@@ -6,7 +6,7 @@ Group member: He Wang, Shirley Zhang, Chushi Shi, Siqi Shen
 
 # Summary 
 
-Our project aims to come up with an simple and accurate method to estimate body fat. The summary includes the clear description of our statistical analysis and findings.
+Our project aims to come up with an simple and accurate method to estimate body fat. The summary folder includes the clear description of our statistical analysis and findings.
 
 # Data Folder
 
@@ -14,13 +14,13 @@ It contains the raw dataset BodyFat.csv and the cleaned up dataset BodyFat_new.c
 
 # Code Folder
 
-It contains a jupyter notebook which includes all of our codes.
+It contains a jupyter notebook which includes all of our codes including data cleaning, model construction and model evaluation. Also, it includes a ShinyApp which displays the shiny web application.
 
 # Image Folder 
 
-This folder includes all of the images of our analysis. 
+This folder includes all of the images of our analysis in the summary. 
 
 # Shiny Link
 
-This is a Shiny Application which can run in real time. Details of the APP are in /Code/ShinyApp.
+This is a Shiny Application which can run in real time.
 https://nerrix.shinyapps.io/shiny/
