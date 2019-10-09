@@ -1,8 +1,10 @@
 # STAT 628 Thursday Module 2 Group 5
 
+This repository contains work related to STAT 628, instructed by Prof. Hyunseung Kang. We built a simple and robust model for predicting men's body fat percentage. 
+
 Group member: He Wang, Shirley Zhang, Chushi Shi, Siqi Shen
 
-# Summary Folder
+# Summary 
 
 Our project aims to come up with an simple and accurate method to estimate body fat. The summary includes the clear description of our statistical analysis and findings.
 
