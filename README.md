@@ -22,5 +22,5 @@ This folder includes all of the images of our analysis.
 
 # Shiny Link
 
-This is a Shiny Application which can run in real time.
+This is a Shiny Application which can run in real time. Details of the APP are in /Code/ShinyApp.
 https://nerrix.shinyapps.io/shiny/
